@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.danielgelbart.com
+title: Contango
+subtitle: Capital generating assets and their uses.
+author: Daniel Gelbart
 simple_search: https://www.google.com/search
-description:
+description: Various financial contracts have different uses, and provide the owner (or seller) sources of capital. The extent of profit, or loss, depends on verious variables and cercomctances. 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
