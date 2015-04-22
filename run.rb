@@ -6,6 +6,7 @@ $root = ::File.dirname(__FILE__)
 
 class Blog < Sinatra::Base
 
+  puts "calld sinatra?"
   get(/.+/) do
     send_sinatra_file(request.path) {404}
   end
