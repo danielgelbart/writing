@@ -7,7 +7,7 @@ categories:
 - Intrest rate
 - Stock Market Valuation
 ---
-
+<!--more-->
 Following more than six consecutive years with a federal funds rate of zero, the Fed has indicated that they are looking to raise interest rates some time before the end of 2015. When interest rates will go up, stock prices will be pulled down. There are multiple reasons for this. One way that stock prices are affected by higher interest rates, is that higher interest rates translate into more expensive loans, making the recycling of debt, as well as new debt, more expensive. Another reason is that government bonds become a more attractive investment, and therefore divert money away from other investments. Higher interest rates can therefore result in less money flowing into the stock market, resulting in lower demand for stocks, and lower prices. 
 
 In addition, since this relationship is widely known, a broad expectation of future lower price levels forms whenever a broad expectation of future higher interest rates forms. For this reason, we are sure to see a drop in stock market price levels immediately following the rate raise announcement from the Fed. This drop in prices, at least in the short term, will be greater than the true economic effect of rate change, as it will be largely due to money managers attempting to avoid future (expected further) price decline. A self fulfilling prophecy of sorts. This might also be followed by later herd like behavior. That is, the drop in price itself may lead to more people wanting to sell. 
