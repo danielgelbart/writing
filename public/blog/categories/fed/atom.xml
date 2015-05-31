@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Capital Generating Assets]]></title>
-  <link href="http://www.danielgelbart.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Fed | Capital Generating Assets]]></title>
+  <link href="http://www.danielgelbart.com/blog/categories/fed/atom.xml" rel="self"/>
   <link href="http://www.danielgelbart.com/"/>
   <updated>2015-05-31T17:14:08+03:00</updated>
   <id>http://www.danielgelbart.com/</id>
@@ -31,7 +31,7 @@
 
 <p>This all changed in 2008. As of yesterday, there are more than 2.5 Trillion dollars held held in EXCESS of the required minimum. That&rsquo;s a lot of money. It&rsquo;s almost one quarter of the entire amount of  money in circulation in the United States. And it&rsquo;s just sitting there, idly, not circulating in the economy. This money was not always there. Such huge deposits at the Federal reserve, are a recent development. In the 50 years before 2008, excess reserves at the Fed never exceeded 15 Billion dollars, or less than 0.6% of what they currently are.</p>
 
-<p><img src="http://www.danielgelbart.com/images/FedReserves.png" title="'excess federal reserves over time'" ></p>
+<p><img src="/images/FedReserves.png" title="&lsquo;excess federal reserves over time&rsquo;" ></p>
 
 <p>So what happened?</p>
 
@@ -42,30 +42,6 @@
 <p>But there is still a long road ahead. The Fed must continue dealing with the untangling the current situation. The Quantitative Easing program ended in 2014. The next step is to gradually raise interest rates back to sustainable levels. This will begin in the next few months and interest rates will rise above 0.25% some time in the coming 12 months. When interest rates cross that level, banks will no longer be so eager to hold excess reserves at the Fed, and we will see the massive 2.5 Trillion dollar pile of money exit the Federal reserve. Such an opening of the flood gates will surly cause high inflation, probably into double digits on an annual basis.</p>
 
 <p>The Fed still has the authority to pay interest on these funds, and it can raise it&rsquo;s payment above 0.25%. So we are sure to see the Fed attempting a very tricky financial dance. They will try to raise the interest they pay on deposits, in step with raising the (inter bank loan) interest rate target. On the one hand, the Fed will be allowing these funds into the economy, while at the same time carefully keeping their foot on the breaks, so that the money flows out slowly enough as to not cause very high inflation. To do so, the Fed will need to constantly adjust it&rsquo;s rate targets, while all the time keeping a close eye on inflation. This is no easy task, and it will take years, if not decades to carry out. With such a huge creation of new money behind us, we are sure to see higher inflation over the next ten years. Let&rsquo;s hope that the Fed can manage this new phase of financial recuperation as successfully as they have been managing the crisis up till now.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interest Rates and Their Effect on Stock Prices]]></title>
-    <link href="http://www.danielgelbart.com/blog/2015/04/22/interest-rates-and-their-effect-on-stock-prices/"/>
-    <updated>2015-04-22T15:02:18+03:00</updated>
-    <id>http://www.danielgelbart.com/blog/2015/04/22/interest-rates-and-their-effect-on-stock-prices</id>
-    <content type="html"><![CDATA[<!--more-->
-
-
-<p>Following more than six consecutive years with a federal funds rate of zero, the Fed has indicated that they are looking to raise interest rates some time before the end of 2015. When interest rates will go up, stock prices will be pulled down. There are multiple reasons for this. One way that stock prices are affected by higher interest rates, is that higher interest rates translate into more expensive loans, making the recycling of debt, as well as new debt, more expensive. Another reason is that government bonds become a more attractive investment, and therefore divert money away from other investments. Higher interest rates can therefore result in less money flowing into the stock market, resulting in lower demand for stocks, and lower prices.</p>
-
-<p>In addition, since this relationship is widely known, a broad expectation of future lower price levels forms whenever a broad expectation of future higher interest rates forms. For this reason, we are sure to see a drop in stock market price levels immediately following the rate raise announcement from the Fed. This drop in prices, at least in the short term, will be greater than the true economic effect of rate change, as it will be largely due to money managers attempting to avoid future (expected further) price decline. A self fulfilling prophecy of sorts. This might also be followed by later herd like behavior. That is, the drop in price itself may lead to more people wanting to sell.</p>
-
-<p>The long term effects on market prices will depend on the long term interest rates to follow in the years to come. In the long term, the general weight rising interest rates will have on the market, will be relative to the duration of them rising, as well as the duration of a “high&#8221; interest rates environment. That is, the effect of interest rates on price levels is a cumulative one. The more time rates are rising (or not declining) the stronger the effect.</p>
-
-<p>By far the most powerful determinant of stock prices are earnings. Over the past century, stocks have generally traded at around 15 times earnings. Interest rates, once established over a period of a few years, will push this multiple higher or lower. In periods of low interest rates (as we are in right now) stocks may trade at an earnings multiple close to 20. While long periods of high interest rates can push the market downwards to trade at an earnings multiple lower than 15. Earnings do not stay constant over time. Over a short period of a couple years, earnings may decrease significantly or increase significantly. Generally, over the past century, earnings have increased slightly every year, even after allowing for inflation.</p>
-
-<p>To get a broader picture of what can be expected in the US stock market over the next ten to twenty years, lets assume that earnings, overall, will continue to increase slightly at a rate of 2% a year (which is a reasonable to optimistic future). This means earnings will increase by about 20% (in total) in ten years, and by 50% in twenty. If interest rates increase significantly (say to above 8%) over this period, we can assume that stocks will trade at a lower multiple of earnings. If, for example they trade at around 12 times earnings, the market will see trading at price levels about 25% lower than today, ten years from now, and about 10% lower than today twenty years from now.</p>
-
-<p>We can also examine the future possible returns if interest rates rise, but still stay in a “low” range, of about 2-6% over the next twenty years, while still assuming that earnings will grow by 2% every year. If we guess stocks will trade at a multiple of 16 times earnings under these interest rates, then ten years from now stocks will trade at roughly the same prices as they do today. Under these same assumptions stocks will be trading about 20% higher in twenty years, which works out to just under a 1% annual return.</p>
-
-<p>Bottom line: You can safely expect a drop in stock prices to immediately follow the upcoming announcement from the Fed that they are raising their target for the federal funds rate. What will happen afterwards, strongly depends on the Fed&rsquo;s management of interest rates in the years to come. If stocks are bought at current prices, then even under relatively positive assumptions of consistent increases in corporate earnings as well as relatively low interest rates, returns can be expected to be low over the next ten to twenty years.</p>
 ]]></content>
   </entry>
   
