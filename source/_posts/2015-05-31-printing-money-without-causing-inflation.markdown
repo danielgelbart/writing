@@ -9,7 +9,7 @@ categories:
 - Inflaion
 ---
 <!--more-->
-After a huge stimulatory push by the Fed;  six years of interest rates at zero, and more than 4 Trillion dollars created by the Quantitative Easing program (or simply “QE”), we have witnessed a massive creation of new money. Perhaps the most important, as well as most substantiated economic theory, is that of inflation. Simply put, it states that more money in the economy results in more inflation. This begs the question: why is inflation so low? 
+After a huge stimulatory push by the Fed;  six years of interest rates at zero, and more than 4 Trillion dollars created by the Quantitative Easing program (“QE"), we have witnessed a massive creation of new money. Perhaps the most important, as well as most substantiated economic theory, is that of inflation. Simply put, it states that more money in the economy results in more inflation. This begs the question: why is inflation so low? 
 
 There are only two possible explanations for this low inflation. Either the economy has grown enormously and in pace with the creation of new money, or, that this new money was created but is not circulating in the economy. The first option is clearly not the case, so we are left with the second. Indeed, for there to be inflation, the median income must rise. Since it has not, it indeed looks as if all this newly created money is “stuck” somewhere. To find where it is hiding, we need to “follow the money”. 
 
